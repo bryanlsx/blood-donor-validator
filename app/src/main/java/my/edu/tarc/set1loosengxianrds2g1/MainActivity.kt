@@ -38,8 +38,6 @@ class MainActivity : AppCompatActivity() {
             }else{
                 binding.textViewResult.text = "You Are Not Eligible to Donate Blood"
             }
-
         }
-
     }
 }
