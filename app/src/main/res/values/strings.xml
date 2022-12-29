@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">set1LooSengXianRDS2G1</string>
+    <string name="title">Blood Donor Checker</string>
+    <string name="health">Are you Healthy and Feeling Well?</string>
+    <string name="age">Age Between 18-60</string>
+    <string name="weight">Weight</string>
+    <string name="hours_sleep">> 5 Hrs of Sleep?</string>
+    <string name="result">Result</string>
+    <string name="above"> >50Kg</string>
+    <string name="between">45-50Kg</string>
+    <string name="under">Less than 45Kg</string>
+    <string name="checkbox_health_yes">Yes</string>
+    <string name="checkbox_health_no">No</string>
+    <string name="check_button">CHECK</string>
+    <string name="link">https://www.pdn.gov.my</string>
+</resources>
